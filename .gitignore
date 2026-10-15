@@ -147,3 +147,13 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Active Solar
+node_modules/
+dist/
+.sites-runtime/
+.env
+.env.*
+!.env.example
+test-results/
+*.zip
